@@ -25,4 +25,4 @@
 
 ## My GitHub Stats <img src="https://imgcdn.sigstick.com/kymq8mBi7s6NoL0Tm8oQ/2-1.thumb128.png" width="40">
 
-![Qiaoyue Wan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaoyuewan00&show_icons=true&theme=transparent)  <img src="https://imgcdn.sigstick.com/Huj4f90k3M1Cx3YMmXn6/16-1.thumb128.webp" width="190">
+![Qiaoyue Wan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaoyuewan00&show_icons=true&theme=transparent)  <img src="https://p1.itc.cn/q_70/images03/20211020/f2735a66da7d4adca45a7d1af3115f5d.gif" width="400" length="400">
