@@ -7,9 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## **About Me**<img src="https://imgcdn.sigstick.com/1RdU0HjM8dK7P46AsnPy/3-1.thumb128.png" width="40">
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+* 🎓 I'm an **Incoming Grad Student  @[CSU](https://cse.csu.edu.cn/)** majoring in Computer Science.
+* 🧠 My current research interests are mainly **LLM🎆** and **bioinformatics🧬**.In the past, it mainly focused on **big data⚔**.
+* ✨ I am a Xiaohongshu blogger and a huge fan of **biko喵😸-小刘鸭🦆**.
+* 🦾 To be both a **speaker** of words and a **doer** of deeds.
+
+
+##  **Work & Learning <img src="https://imgcdn.sigstick.com/MEEY5kcoxZzpUKIyzEtQ/0-1.thumb128.png" width="40">**
+
+- 🧱Currently I am an intern at **vivo AI Center** and focus on
+  - **RAG🔎**
+
+  - **agent+tool use🛠️**
+
+- 🌱 Recently I have learned knowledge related to **LLM**, and I believe that AI will continue to surprise us!
+- 📧 You can contact me at qiaoyuewan@gmail.com.
+
+
+##  **Life <img src="https://imgcdn.sigstick.com/EniyBYfAgKxYUCZhthbe/0-1.thumb128.png" width="40">**
+- 💑 Thanks to my love, an excellent computer science student, for being with me every step of the way. [**bb's homepage**](https://github.com/ZemingL1u) ❤️
+- 👜 In my spare time, I like traveling and playing bridge cards.
 
 A data-driven personal website
 ======
