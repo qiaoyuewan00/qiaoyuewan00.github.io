@@ -6,8 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## **About Me**<img src="https://imgcdn.sigstick.com/1RdU0HjM8dK7P46AsnPy/3-1.thumb128.png" width="40">
-
 * 🎓 I'm an **Incoming Grad Student  @[CSU](https://cse.csu.edu.cn/)** majoring in Computer Science.
 * 🧠 My current research interests are mainly **LLM🎆** and **bioinformatics🧬**.In the past, it mainly focused on **big data⚔**.
 * ✨ I am a Xiaohongshu blogger and a huge fan of **biko喵😸-小刘鸭🦆**.
