@@ -6,23 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-* 🎓 I'm an **Incoming Grad Student  @[CSU](https://cse.csu.edu.cn/)** majoring in Computer Science.
-* 🧠 My current research interests are mainly **LLM🎆** and **bioinformatics🧬**.In the past, it mainly focused on **big data⚔**.
-* ✨ I am a Xiaohongshu blogger and a huge fan of **biko喵😸-小刘鸭🦆**.
-* 🦾 To be both a **speaker** of words and a **doer** of deeds.
+I am Qiaoyue Wan, currently a first-year master's student at Central South University, specializing in multimodal large language models (MLLMs), visual language models (VLMs), and information retrieval.
+# Professional Experience
+Previously, I worked as an algorithm intern (NLP) at the vivo AI Center, where I participated in the development of a retrieval-augmented generation (RAG) based question-answering system and explored the automated application of tool use in AI agents.
 
-
-##  **Work & Learning <img src="https://imgcdn.sigstick.com/MEEY5kcoxZzpUKIyzEtQ/0-1.thumb128.png" width="40">**
-
-- 🧱Currently I am an intern at **vivo AI Center** and focus on
-  - **RAG🔎**
-
-  - **agent+tool use🛠️**
-
-- 🌱 Recently I have learned knowledge related to **LLM**, and I believe that AI will continue to surprise us!
-- 📧 You can contact me at qiaoyuewan@gmail.com.
-
-
-##  **Life <img src="https://imgcdn.sigstick.com/EniyBYfAgKxYUCZhthbe/0-1.thumb128.png" width="40">**
-- 💑 Thanks to my love, an excellent computer science student, for being with me every step of the way. [**bb's homepage**](https://github.com/ZemingL1u) ❤️
-- 👜 In my spare time, I like traveling and playing bridge cards.
+# Research Focus
+- LLM fine-tuning & alignment techniques  
+- Multimodal reasoning (text+image/video)  
+---
+# Contact Information
+Please feel free to contact me via email 📧 qiaoyuewan@gmail.com to discuss technology, research, or career opportunities. 
+My GitHub (@qiaoyuewan00) also contains some open-source project code.
+# Other
+In my spare time, I am a blogger on Xiaohongshu, where I share my experiences and insights in a different way.
