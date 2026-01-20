@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Qiaoyue Wan, currently a first-year master's student at Central South University, specializing in multimodal large language models (MLLMs), visual language models (VLMs), and information retrieval.
+I am Qiaoyue Wan, currently a first-year master's student at Central South University(CSU), specializing in multimodal large language models (MLLMs), visual language models (VLMs), and information retrieval.
 # Professional Experience
 Previously, I worked as an algorithm intern (NLP) at the vivo AI Center, where I participated in the development of a retrieval-augmented generation (RAG) based question-answering system and explored the automated application of tool use in AI agents.
 
