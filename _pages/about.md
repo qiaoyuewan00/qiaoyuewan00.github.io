@@ -13,7 +13,7 @@ Previously, I worked as an algorithm intern (NLP) at the vivo AI Center, where I
 # Research Focus
 - LLM fine-tuning & alignment techniques  
 - Multimodal reasoning (text+image/video)  
----
+
 # Contact Information
 Please feel free to contact me via email 📧 qiaoyuewan@gmail.com to discuss technology, research, or career opportunities. 
 My GitHub (@qiaoyuewan00) also contains some open-source project code.
